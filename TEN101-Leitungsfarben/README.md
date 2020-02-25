@@ -27,5 +27,4 @@ Farben der Verbindungsleitungen bei Arduino &amp; Co.
 - 1Wire: Daten blau
 - Taster-Eingang: grün
 - LED-Ausgang: blau
-- Chip-Selecct (CS): weiß
-- 
+- Chip-Select (CS): weiß
